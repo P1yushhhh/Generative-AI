@@ -43,7 +43,6 @@ pip install -r requirements.txt
 
 - [LangChain Documentation](https://docs.langchain.com/)
 - [LangChain GitHub Repository](https://github.com/langchain-ai/langchain)
-- [OpenAI API Documentation](https://platform.openai.com/docs)
 
 ## 🙏 Acknowledgments
 A special thanks to CampusX and krish naik for guiding me through this journey with their exceptional education content
